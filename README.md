@@ -1,7 +1,7 @@
 ![ZAID KHAN - Full Stack Developer](./banner.svg)
 
 
-
+<!-- typing -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Developer;MERN%20Stack%20Specialist;Next.js%20Enthusiast;TypeScript%20Developer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
@@ -17,7 +17,8 @@
 
 <br>
 
-<img align="right" alt="Coding" width="50%" src="https://raw.githubusercontent.com/madhavagarwal3012/madhavagarwal3012/main/Black%20Background.gif">
+
+<!-- focus -->
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Web%20Development-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Pakistan-success" />
@@ -41,6 +42,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
+
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Projects:
 
