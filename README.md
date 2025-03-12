@@ -2,9 +2,18 @@
 I'm a Full-Stack Developer. I specialize in MERN Stack, Next.js and TypeScript, always eager to learn and explore new technologies.
 
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zaid707khan@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m-zaid-khan29) 
+# 🌐 Connect with Me:
+
+|[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zaid707khan@gmail.com)|[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m-zaid-khan29)|
+|------|--------|
+
+
+# 🚀 Projects:
+
+- **[Suqhur](https://suqhur.com/)** - A complete platform for seamless deliveries and orders.  
+- **[Team To-Do](https://team-todo-seven.vercel.app/)** - A collaborative task management application.  
+- **[Doctor Appointment Booking System](https://doctor-appointment-booking-system-docto.vercel.app/)** - A system to book and manage doctor appointments efficiently.  
+
 
 # 💻 Tech Stack:
 
