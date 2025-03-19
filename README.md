@@ -120,15 +120,6 @@
   <img src="https://profile-counter.glitch.me/Zaid-Khan29/count.svg" alt="Visitor Count" />
 </div>
 
-<!-- GitHub Snake -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zaid-Khan29/Zaid-Khan29/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zaid-Khan29/Zaid-Khan29/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Zaid-Khan29/Zaid-Khan29/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
 ---
 <div align="center">
   <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="60" height="60" />
