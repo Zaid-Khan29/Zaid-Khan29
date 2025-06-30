@@ -60,6 +60,10 @@
     <img src="https://img.shields.io/badge/Doctor%20Appointment-A%20system%20to%20book%20and%20manage%20doctor%20appointments-00C853?style=for-the-badge&labelColor=00C853" height="35"/>
   </a>
 
+  <a href="https://main.d36qgp523d8fvw.amplifyapp.com/signin">
+    <img src="https://img.shields.io/badge/Syssel-Service%20marketplace%20connecting%20buyers%20and%20providers-8E24AA?style=for-the-badge&labelColor=8E24AA" height="35"/>
+  </a>
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
