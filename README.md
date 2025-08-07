@@ -47,6 +47,10 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Projects:
 
 
+  <a href="https://247seating.com/">
+    <img src="https://img.shields.io/badge/247Seating-Restaurant%20table%20reservation%20system-00C853?style=for-the-badge&labelColor=00C853" height="35"/>
+  </a>
+
   <a href="https://suqhur.com/">
     <img src="https://img.shields.io/badge/Suqhur-A%20complete%20platform%20for%20seamless%20deliveries-4285F4?style=for-the-badge&labelColor=4285F4" height="35"/>
   </a>
