@@ -51,6 +51,10 @@
     <img src="https://img.shields.io/badge/247Seating-Restaurant%20table%20reservation%20system-00C853?style=for-the-badge&labelColor=00C853" height="35"/>
   </a>
 
+  <a href="https://planxoffice.com/customer">
+    <img src="https://img.shields.io/badge/PlanX-Reward%20and%20Referral%20Platform-46E3B7?style=for-the-badge&labelColor=46E3B7" height="35"/>
+  </a>
+
   <a href="https://suqhur.com/">
     <img src="https://img.shields.io/badge/Suqhur-A%20complete%20platform%20for%20seamless%20deliveries-4285F4?style=for-the-badge&labelColor=4285F4" height="35"/>
   </a>
